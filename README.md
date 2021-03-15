@@ -2,12 +2,12 @@
 ```
 git clone ...
 cd ...
-yarn install
+npm install
 ```
 
 ## Run the CLI App
 ```shell
-yarn start 
+npm run start 
 ```
 
 ## Build TypeScript to JavaScript
@@ -15,5 +15,5 @@ yarn start
 (emits into `dist` folder)
 
 ```shell
-yarn build
+npm run build
 ```
